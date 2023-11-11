@@ -1,0 +1,41 @@
+h1, h4{
+    text-align: center;
+    font-family: Courier New, monospace ;
+    border: 2px solid Violet; ;
+    color: mediumpurple;
+}
+p b{
+    color: sienna;
+}
+#h3{
+    color: brown;
+    text-align: center;
+}
+li.class1{
+    color: darkred;
+
+}
+li.class2{
+    font-weight: bold;
+}
+.class1.class2{
+    font-family: Courier New, monospace ;
+
+}
+#selector{
+    color: chocolate;
+}
+.class{
+    color: mediumpurple;
+}
+h3{
+    color: blue;
+    text-align: center;
+    border: 2px solid Violet; ;
+}
+.text2{
+    color: cadetblue;
+}
+#text1{
+    color: darkgreen;
+}
